@@ -34,12 +34,12 @@ export const collections: Collection[] = [
     meta: "9 things I built",
     items: [
       {
-        logo: "https://pdfstudio-demo.fayaz.workers.dev/favicon.svg",
-        label: "PDF Studio",
+        logo: "https://ish-shell-tutorial.vercel.app/favicon.ico",
+        label: "ISH Course",
       },
       {
-        logo: "https://screendrop.fayazahmed.com/favicon.ico",
-        label: "Screendrop",
+        logo: "https://python-wa.vercel.app/",
+        label: "Python Web",
       },
       { logo: "https://codereel.fayazahmed.com/logo.png", label: "CodeReel" },
       { logo: "https://supersaas.dev/logo.png", label: "Supersaas" },
