@@ -38,11 +38,11 @@ export const collections: Collection[] = [
         label: "ISH Course",
       },
       {
-        logo: "https://python-wa.vercel.app/",
-        label: "Python Web",
+        logo: "/RemoIcon.png",
+        label: "BotPlus",
       },
       { logo: "/cloudflare.webp", label: "Cloudflare Page" },
-      { logo: "https://supersaas.dev/logo.png", label: "EasyID" },
+      { logo: "/EasyID.png", label: "EasyID" },
     ],
   },
   {
