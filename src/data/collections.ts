@@ -34,7 +34,7 @@ export const collections: Collection[] = [
     meta: "9 things I built",
     items: [
       {
-        logo: "https://ish-shell-tutorial.vercel.app/favicon.ico",
+        logo: "/ish.png",
         label: "ISH Course",
       },
       {
