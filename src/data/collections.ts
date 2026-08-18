@@ -41,7 +41,7 @@ export const collections: Collection[] = [
         logo: "https://python-wa.vercel.app/",
         label: "Python Web",
       },
-      { logo: "https://codereel.fayazahmed.com/logo.png", label: "CodeReel" },
+      { logo: "https://bunnymat.github.io/CloudFlare/", label: "Cloudflare Page" },
       { logo: "https://supersaas.dev/logo.png", label: "Supersaas" },
     ],
   },
